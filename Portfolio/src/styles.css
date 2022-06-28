@@ -1,0 +1,36 @@
+/* You can add global styles to this file, and also import other style files */
+
+* {
+    background: #232323;
+    color : #fff;
+    font-family: fira code ;
+}
+
+header {
+    text-align: center;
+    padding: 3px;
+
+}
+
+#about {
+    text-align: center;
+    padding: 3px;
+
+}
+
+#edu {
+    padding: 3px;
+}
+
+#work {
+    padding: 3px;
+}
+
+#proj {
+    padding: 3px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+}
