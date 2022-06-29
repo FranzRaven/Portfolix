@@ -1,36 +1,61 @@
 /* You can add global styles to this file, and also import other style files */
 
 * {
-    background: #232323;
-    color : #fff;
+    background-color: #272822;
+    color : #A6E22E;
     font-family: fira code ;
 }
 
-header {
-    text-align: center;
-    padding: 3px;
+p {
+    background: transparent;
 
+}
+h1,h2,h3,h4 {
+    background: transparent;
+}
+nav {
+
+}
+
+header {
+    border: 2px solid #FD971F;
+    text-align: center;
+    padding: 5px;
+    border-radius: 29px;
+    box-sizing: border-box;
+    background: transparent;
+    background-image: url("assets/img/textura1.jpg");
+    background-size: cover;
+    min-height: 20%;
 }
 
 #about {
     text-align: center;
     padding: 3px;
+    text-justify: center;
+    word-wrap: break-word;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
+    padding-top: 5%;
 
+    box-sizing: border-box;
 }
 
 #edu {
+
     padding: 3px;
 }
 
 #work {
-    padding: 3px;
+ padding: 3px;
 }
 
 #proj {
-    padding: 3px;
+   padding: 3px;
 }
 
 footer {
-    text-align: center;
+   text-align: center;
     padding: 3px;
 }
