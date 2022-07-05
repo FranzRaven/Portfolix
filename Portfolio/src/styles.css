@@ -40,12 +40,12 @@ header {
 
 
 #about {
-    text-align: center;
+    //text-align: center;
     padding: 3px;
-    text-justify: center;
-    word-wrap: break-word;
-    padding-left: 20%;
-    padding-right: 20%;
+    //text-justify: center;
+    //word-wrap: break-word;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-bottom: 5%;
     padding-top: 5%;
 
@@ -55,21 +55,24 @@ header {
 
 }
 
+#exp {
+    color: #ae81ff;
+ padding: 3px;
+}
+
 #edu {
-    color: #fff;
+    color: #f8f8f2;
     padding: 3px;
     color: #6629ef;
 }
 
-#work {
-    color: #ae81ff;
- padding: 3px;
+#skills {
+    color: #f8f8f2;
 }
 
 #proj {
     color: #e6db74;
    padding: 3px;
-   font-size: 500%
 }
 
 footer {
