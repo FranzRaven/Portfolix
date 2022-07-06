@@ -1,0 +1,8 @@
+.progress {
+
+    height: 50px;
+    margin-top: 32px;
+    background-color: #212121;
+    font-size: large;
+    font-weight:bold;
+}

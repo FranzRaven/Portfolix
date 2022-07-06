@@ -40,10 +40,10 @@ header {
 
 
 #about {
-    //text-align: center;
+    /*text-align: center;*/
     padding: 3px;
-    //text-justify: center;
-    //word-wrap: break-word;
+    /*text-justify: center;*/
+    /*word-wrap: break-word;*/
     padding-left: 5%;
     padding-right: 5%;
     padding-bottom: 5%;
@@ -57,17 +57,18 @@ header {
 
 #exp {
     color: #ae81ff;
- padding: 3px;
+ padding: 7%;
 }
 
 #edu {
     color: #f8f8f2;
-    padding: 3px;
+    padding: 7%;
     color: #6629ef;
 }
 
 #skills {
     color: #f8f8f2;
+    padding: 12%;
 }
 
 #proj {

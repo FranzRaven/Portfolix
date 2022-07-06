@@ -1,0 +1,24 @@
+@media (min-width: 768px){
+    #fotin {
+        border-radius: 100%;
+        border: 1px solid #fd971f;
+        box-shadow: 1px 1px 5px #fd9672;
+        left: 1%;
+        top: 500px;
+    }
+}
+@media (max-width: 768px){
+    #fotin {
+        border-radius: 100%;
+        border: 1px solid #fd971f;
+        box-shadow: 1px 1px 5px #fd9672;
+        left: 1%;
+
+    }
+}
+
+#jano {
+    border-radius: 67%;
+    border: 2px solid #f92672 ;
+    padding: auto;
+}
